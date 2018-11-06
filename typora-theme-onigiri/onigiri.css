@@ -2,14 +2,14 @@
   font-family: 'Mplus1p';
   font-style: normal;
   font-weight: normal;
-  src: local('Mplus1p'), url('./onigiri/Mplus1p-Light.ttf') format('woff');
+  src: url('./onigiri/Mplus1p-Light.ttf') format('woff');
 }
 
 @font-face {
   font-family: 'Mplus1p Bold';
   font-style: normal;
   font-weight: bold;
-  src: local('Mplus1p'), url('./onigiri/Mplus1p-Regular.ttf') format('woff');
+  src: url('./onigiri/Mplus1p-Regular.ttf') format('woff');
 }
 
 :root {
