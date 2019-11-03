@@ -10,3 +10,6 @@ Onigiri uses [M PLUS 1p](https://fonts.google.com/specimen/M+PLUS+1p), which mak
 
 ![sample3](https://user-images.githubusercontent.com/36184621/48038565-89f99c00-e1b4-11e8-8b29-12f2b7588997.png)
 
+Night theme has been supported.
+
+![sample4](https://user-images.githubusercontent.com/36184621/68085292-c96bce80-fe82-11e9-9864-32930c2640f2.png)
