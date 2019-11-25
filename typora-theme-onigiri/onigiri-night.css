@@ -356,6 +356,43 @@ p.mathjax-block,
   background: #eee;
 }
 
+.md-mathjax-midline {
+  background-color: #57616b;
+  border-bottom: none;
+}
+
+footer.ty-footer {
+  border-color: #656565;
+}
+
+.ty-preferences .btn-default {
+  background: transparent;
+}
+.ty-preferences .btn-default:hover {
+  background: #57616b;
+}
+
+.ty-preferences select {
+  border: 1px solid #989698;
+  height: 21px;
+}
+
+.ty-preferences .nav-group-item.active {
+  background: var(--item-hover-bg-color);
+}
+
+.ty-preferences input[type="search"] {
+  border-color: #333;
+  background: #333;
+  line-height: 22px;
+  border-radius: 6px;
+  color: white;
+}
+
+.ty-preferences input[type="search"]:focus {
+  box-shadow: none;
+}
+
 .megamenu-menu-panel .btn {
   border: 1px solid #ccc;
 }
